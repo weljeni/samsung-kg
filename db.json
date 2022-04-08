@@ -1,0 +1,203 @@
+{
+  "phones": [
+    {
+      "name": "ABGalaxy Z Fold 3 5G 12/512Gb",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/ru/galaxy-s21/gallery/ru-leather-cover-galaxy-s21-ultra-5g-ef-vg998lbegru-363362322?$720_576_PNG$",
+      "desc": " В сложенном виде Galaxy Z Fold3 — это современный смартфон с 6,2-дюймовым экраном. В раскрытом виде — практически планшет. Перед вами впечатляющий экран, на котором можно просматривать контент, работать и играть, как никогда раньше.",
+      "price": "2100",
+      "id": 4,
+      "comments": [
+        {
+          "comment": "34w6e5ri6t7oyiu[ojkp",
+          "user": "kani@mail.ru",
+          "id": 1649311865339
+        }
+      ],
+      "likes": []
+    },
+    {
+      "name": "Galaxy Z Fold2",
+      "image": "https://www.samsungstore.kg/files/media/7/7272.jpg",
+      "desc": "Создан, чтобы повлиять на облик будущего  Нежная палитра изысканных цветов Будущее мобильных устройств представлено в двух ярких цветах, которые выделяются из толпы: Mystic Black и Mystic Bronze.",
+      "price": "2500",
+      "id": 6,
+      "comments": [
+        {
+          "comment": "Азим и Алсу вы лучшие!",
+          "user": "mahabat@mail.ru",
+          "id": 1649241021301
+        }
+      ],
+      "likes": [
+        {
+          "user": "mahabat@mail.ru",
+          "id": 1649240980022
+        },
+        {
+          "user": "alsu@gmail.com",
+          "id": 1649316735234
+        }
+      ]
+    },
+    {
+      "name": "Galaxy A22 5G",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/uz_ru/sm-a226bzauskz/gallery/uz-ru-galaxy-a22-5g-a226-sm-a226bzauskz-531456513?$684_547_PNG$",
+      "desc": "Высочайшая скорость следующего поколения мобильной связи 5G меняет способ взаимодействия и обмена контентом — от невероятно плавных игр и потоковой передачи до сверхбыстрого обмена и загрузки. Наслаждайтесь невероятной скоростью с новым смартфоном Galaxy A22 5G.",
+      "price": "1000",
+      "id": 7,
+      "comments": [],
+      "likes": [
+        {
+          "user": "beka@mail.com",
+          "id": 1649234957096
+        },
+        {
+          "user": "mamed@mail.ru",
+          "id": 1649236481106
+        },
+        {
+          "user": "alsu@gmail.com",
+          "id": 1649316740785
+        }
+      ]
+    },
+    {
+      "name": "Samsung Galaxy A22 LTE",
+      "image": "https://www.notebookcheck-ru.com/uploads/tx_nbc2/SamsungGalaxyA22__1_.jpg",
+      "desc": "Стоимость: - %, Производительность: 58%, Оснащение: 44%, Качество экрана: 77% Портативность: 90%, Внешний вид: 70%, Эргономичность: 80%, Нагрев и шум: 94%",
+      "price": "1200",
+      "id": 8,
+      "comments": [],
+      "likes": []
+    },
+    {
+      "name": "Смартфон Samsung Galaxy A03 64 Гб, Чёрный",
+      "image": "https://online-samsung.ru/sites/default/files/styles/product_teaser270x200/public/products/sm-a035fzkdser_1-min.png?itok=QcE1_Cq7",
+      "desc": "Основные Тип чехла Чехол-накладка   Материал Термопластичный полиуретан   Цвет Чёрный   Совместимость Samsung Galaxy A53  Дополнительно Производитель Samsung   Код производителя EF-QA536TBEGRU",
+      "price": "3000",
+      "id": 10,
+      "comments": [],
+      "likes": [
+        {
+          "user": "aziz@mail.com",
+          "id": 1649307220342
+        }
+      ]
+    },
+    {
+      "name": "Galaxy A 51 black",
+      "image": "https://images.samsung.com/is/image/samsung/levant-galaxy-a51-a515-8gb-sm-a515fzkhmid-back-314427986?$720_576_PNG$",
+      "desc": "*Estimated against the usage profile of an average/typical user. Independently assessed by Strategy Analytics between 2021.12.08–12.20 in USA and UK with pre-release versions of SM-S901, SM-S906, SM-S908 under default setting using 5G Sub6 networks (NOT tested under 5G mmWave network). Actual battery life varies by network environment, features and apps used, frequency of calls and messages, number of times charged, and many other factors.",
+      "price": "2500",
+      "id": 11,
+      "comments": [],
+      "likes": []
+    },
+    {
+      "name": "Galaxy S21 FE 5G",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/sg/sm-g990elggxsp/gallery/sg-galaxy-s21-fe-g990-sm-g990elggxsp-530606145?$2160_1728_PNG$",
+      "desc": " Part of the indicated memory space is occupied by pre-installed content. For this device, the space available to the user is approximately 87% of the total memory capacity indicated.",
+      "price": "3000",
+      "id": 12,
+      "comments": [
+        {
+          "comment": "asadafdsafq",
+          "user": "alsu@gmail.com",
+          "id": 1649185211414
+        }
+      ],
+      "likes": []
+    },
+    {
+      "name": "Galaxy S21+ 5G",
+      "image": "https://softech.kg/image/cache/90900126909eac418e55f3c51254a4ce.jpg",
+      "desc": "All specifications and descriptions provided herein may be different from the actual specifications and descriptions for the product. 5G network requires optimal 5G network connection, available in select markets. Check with your carrier for availability and details. Download and streaming speeds may vary based on content provider, server connection and other factors.",
+      "price": "1900",
+      "id": 13,
+      "comments": [],
+      "likes": []
+    },
+    {
+      "name": "Samsung Galaxy S 21 128 GB",
+      "image": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F232884_1a.jpg&w=3840&q=85",
+      "desc": "Вы больше никогда не упустите идеальный момент для снимка. Встречайте Galaxy S21 5G и S21+ 5G . Созданы произвести революцию в мире видео и фотографии. С кинематографичным разрешением 8K вы сможете создавать невероятные фотографии прямо из видео. Galaxy S21 5G и S21+ 5G — это камера 64МП, самый быстрый процессор в Galaxy и мощный аккумулятор на весь день. Всё для нового уровня впечатлений.",
+      "price": "1300",
+      "id": 14,
+      "comments": [],
+      "likes": []
+    },
+    {
+      "name": "Galaxy A73 5G",
+      "image": "https://d124ep1ou7ef1k.cloudfront.net/wp-content/uploads/2022/03/006_Galaxy_A73_5G_gray_back_r30-1440x960.jpg",
+      "desc": "* Specifications may vary by market. * All functionality, features, specifications and other product information provided in this document including, but not limited to, the benefits, design, pricing, components, performance, availability, and capabilities of the product are subject to change without notice.",
+      "price": "1700",
+      "id": 15,
+      "comments": [],
+      "likes": []
+    },
+    {
+      "name": "Samsung Galaxy S 9",
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_77_1518_2.png",
+      "desc": "Очень крутой телефон, выглядит супер современно и стильно, понравилась большая память 64Гб, шикарные фотки и видосы. Телефон не виснет,не лагает, очень классно смотрится в черном цвете, стильно. Не смотря на свою большую диагональ в руке лежит удобно, очень яркие и сочные краски.Довольна покупкой,рекомендую",
+      "price": "1100",
+      "id": 16,
+      "comments": [],
+      "likes": []
+    },
+    {
+      "name": "Samaung Galaxy S8",
+      "image": "https://assets.gq.ru/photos/5d9f5e18cd52870008329e0a/16:9/w_2560%2Cc_limit/anons.jpg",
+      "desc": "Упрекнуть Samsung в подражании больше не получится – сегодня подражают уже Samsung. S8 выглядит, ощущается в руке и работает совершенно иначе, нежели S7 или любой другой смартфон. Samsung даже не стали лепить логотип на фронтальную панель – он просто не нужен в таком непохожем ни на что аппарате. Корейцы даже выпустили книгу о дизайне S8, онлайн-версию которой можно посмотреть здесь.",
+      "price": "900",
+      "id": 17,
+      "comments": [],
+      "likes": []
+    },
+    {
+      "name": "Samsung Galaxy S7",
+      "image": "https://images.samsung.com/is/image/samsung/pk-galaxy-s7-edge-g935fd-sm-g935fzkupak-001-front-gold?$624_624_PNG$",
+      "desc": "Чтобы убрать рубашку в чемодан, ее надо сложить. Чтобы уместить огромный экран в стандартного размера корпус, его надо немного подвернуть по бокам и закруглить по углам. Кажется, что если бы не фронтальная камера, уже давно дисплей занимал бы всю лицевую поверхность. Свет и цвет прекрасны, доступно два варианта диагонали: 5,8 и 6,2 дюйма. На деле же каждый экран упакован в корпус размером с аппарат 5,0 и 5,5 дюйма соответственно – уместятся такие в любую руку.",
+      "price": "800",
+      "id": 18,
+      "comments": [],
+      "likes": []
+    }
+  ],
+  "commit": [
+    {
+      "commits": "Вы лушчие!",
+      "user": "Айка ",
+      "id": 5
+    },
+    {
+      "commits": "Я рад, что купил у вас!",
+      "user": "Айбек",
+      "id": 6
+    },
+    {
+      "commits": "Хороший магазин!👍",
+      "user": "Айдай",
+      "id": 7
+    },
+    {
+      "commits": "Телефон  классный и не дорого 🔥🔥🔥🔥🔥🔥🔥🔥",
+      "user": "Белек",
+      "id": 8
+    },
+    {
+      "commits": "Сотрудники  мастера в своем деле 💪💪💪💪",
+      "user": "Азрет",
+      "id": 9
+    },
+    {
+      "commits": "Ваш магазин самый лучший в нашем городе!",
+      "user": "mamed@mail.ru",
+      "id": 13
+    },
+    {
+      "commits": "Самсунг",
+      "user": "mahabat@mail.ru",
+      "id": 14
+    }
+  ]
+}

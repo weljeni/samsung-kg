@@ -1,0 +1,42 @@
+.forma {
+  width: 100%;
+  max-width: 500px;
+  margin: 80px auto;
+  border: 1px solid grey;
+  padding: 30px 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.forms-h1 {
+  margin-bottom: 70px;
+  text-align: center;
+  font-size: 30px;
+}
+@media (max-width: 1000px) {
+  .forma {
+    max-width: 400px;
+  }
+  .forms-h1 {
+    font-size: 28px;
+  }
+}
+@media (max-width: 700px) {
+  .forma {
+    max-width: 300px;
+    margin: 10px auto;
+    border: none;
+  }
+  .forms-h1 {
+    font-size: 22px;
+    margin-bottom: 40px;
+  }
+}
+@media (max-width: 500px) {
+  .forma {
+    max-width: 250px;
+  }
+  .forms-h1 {
+    font-size: 18px;
+  }
+}

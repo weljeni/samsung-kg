@@ -1,0 +1,114 @@
+.headers {
+  max-width: 100%;
+  width: 100%;
+  border-bottom: 1px solid rgb(73, 72, 72);
+}
+.header {
+  max-width: 100%;
+  width: 75%;
+  margin: 10px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logotype1,
+.logotype2 {
+  display: none;
+}
+.div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 500px;
+}
+.heart,
+.shopping {
+  font-size: 25px;
+}
+.email {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.alsu {
+  width: 100%;
+  max-width: 200px;
+}
+.azim {
+  width: 100%;
+  max-width: 200px;
+}
+
+@media (max-width: 1200px) {
+  .headers {
+    max-width: 1200px;
+    border: none;
+    padding-top: 10px;
+  }
+  .logotype {
+    max-width: 100px;
+  }
+}
+@media (max-width: 1150px) {
+  .contacty {
+    display: none;
+  }
+}
+@media (max-width: 700px) {
+  .email {
+    display: none;
+  }
+  .out {
+    display: none;
+  }
+  .logotype {
+    display: none;
+  }
+  .logotype1 {
+    display: block;
+    max-width: 100px;
+    margin: 0 40px;
+  }
+  .header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+  }
+  .heart,
+  .shopping {
+    font-size: 20px;
+  }
+}
+@media (max-width: 550px) {
+  .alsu,
+  .azim {
+    max-width: 100%;
+  }
+  .email {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .headers {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+  }
+  .logotype2 {
+    display: block;
+    width: 100px;
+    margin: 10px 0px;
+  }
+  .logotype1 {
+    display: none;
+  }
+  .header {
+    justify-content: space-between;
+    width: 80%;
+  }
+  .div {
+    display: flex;
+    margin-left: -30px;
+  }
+}

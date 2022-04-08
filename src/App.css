@@ -1,0 +1,77 @@
+* {
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.containers {
+  width: 80vw;
+  margin: 20px auto;
+}
+.products-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  justify-content: center;
+}
+.products-search {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.bitn {
+  margin-top: 5px;
+  width: 100%;
+  max-width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+.menu {
+  display: none;
+}
+.filters {
+  width: 100%;
+  max-width: 65%;
+}
+
+.phone-ist {
+  display: flex;
+  flex-direction: column;
+}
+
+.img-responsive {
+  width: 272px;
+  height: 272px;
+}
+.emails {
+  display: none;
+}
+.auth {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 200px auto;
+}
+@media (max-width: 1150px) {
+  .menu {
+    display: block;
+    max-width: 150px;
+  }
+}
+@media (max-width: 700px) {
+  .img-responsive {
+    width: 260px;
+    height: 250px;
+  }
+  .emails {
+    display: block;
+  }
+  .auth {
+    margin: 40px auto;
+  }
+}
+@media (max-width: 350px) {
+  .filters {
+    width: 100%;
+    max-width: 100%;
+  }
+}

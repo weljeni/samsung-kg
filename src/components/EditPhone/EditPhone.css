@@ -1,0 +1,54 @@
+.edits {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  background-image: url(https://media.cnn.com/api/v1/images/stellar/prod/210826151044-galaxy-z-flip-3-lead.jpg?q=x_0,y_74,h_2831,w_5032,c_crop/h_720,w_1280);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  padding-left: 25%;
+}
+.edit-inp {
+  margin-top: 10px;
+  width: 350px;
+  height: 40px;
+  border-radius: 4px;
+  border: none;
+  background-color: rgb(235, 230, 230);
+  outline: none;
+  padding: 0px 10px;
+  box-shadow: 1px 3px rgb(93, 92, 92), -0.5em 0 0.9em;
+}
+.edit-btn {
+  margin-top: 10px;
+  width: 350px;
+  height: 40px;
+}
+.edit-btn:hover {
+  background-color: grey;
+  color: white;
+}
+@media (max-width: 700px) {
+  .edits {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+  }
+}
+@media (max-width: 400px) {
+  .edit-inp {
+    width: 250px;
+    height: 30px;
+  }
+  .edit-btn {
+    width: 250px;
+    height: 30px;
+  }
+}

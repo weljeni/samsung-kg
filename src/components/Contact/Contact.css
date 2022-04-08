@@ -1,0 +1,20 @@
+.saloon {
+  min-height: 165px;
+  margin-bottom: 30px;
+}
+.glav {
+  font-weight: bold;
+  font-size: 16px;
+  color: #363636;
+  margin-bottom: 25px;
+  cursor: pointer;
+}
+.gact {
+  font-size: 16px;
+  line-height: 1.45em;
+}
+.adres-contact {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

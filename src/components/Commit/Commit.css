@@ -1,0 +1,46 @@
+.container-commit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.commit-title {
+  text-align: center;
+  margin: 20px auto;
+  font-size: 18px;
+}
+.form-form {
+  width: 100%;
+  max-width: 50%;
+}
+.commit-input {
+  width: 100%;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}
+.commit-btn {
+  width: 100%;
+  max-width: 50%;
+  display: flex;
+  justify-content: flex-end;
+}
+.form-button {
+  font-size: 14px;
+  display: flex;
+  justify-content: space-around;
+}
+@media (max-width: 500px) {
+  .commit-title {
+    font-size: 12px;
+  }
+  .form-form {
+    max-width: 80%;
+  }
+  .form-button {
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,142 @@
+.carousel {
+  width: 100%;
+  max-width: 100%;
+}
+.carousel1 {
+  width: 100%;
+  max-width: 100%;
+  margin-top: 20px;
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+.carousel-caption {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.carousel-cap {
+  text-align: center;
+  width: 100%;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.carousel-img {
+  width: 100%;
+  max-width: 50%;
+  animation-duration: 7s;
+  animation-name: slide;
+}
+.carousel-caps {
+  text-align: center;
+  width: 100%;
+  font-size: 18px;
+}
+.carousel-captions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  background-color: black;
+}
+.h3s {
+  color: white;
+}
+.container-home {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: black;
+  width: 100%;
+  max-width: 100%;
+  height: 250px;
+}
+.container-house {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 16%;
+}
+.title-h3 {
+  color: white;
+  text-align: center;
+}
+
+@keyframes slidein {
+  from {
+    margin-top: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-top: 0%;
+    width: 100%;
+  }
+}
+
+@keyframes slide {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+@media (max-width: 1200px) {
+  .carousel-caption {
+    flex-wrap: wrap;
+  }
+  .carousel-captions {
+    flex-wrap: wrap;
+  }
+  .carousel-img {
+    max-width: 100%;
+    height: 500px;
+  }
+}
+@media (max-width: 800px) {
+  .carousel-cap {
+    font-size: 16px;
+  }
+  .carousel-caps {
+    font-size: 16px;
+  }
+  .carousel-img {
+    max-width: 100%;
+    height: 400px;
+  }
+}
+
+@media (max-width: 550px) {
+  .carousel-cap {
+    font-size: 13px;
+  }
+  .carousel-caps {
+    font-size: 13px;
+  }
+  .carousel-img {
+    max-width: 100%;
+    height: 300px;
+  }
+  .container-home {
+    flex-wrap: wrap;
+    height: 450px;
+  }
+  .container-house {
+    max-width: 80%;
+  }
+}
+@media (max-width: 400px) {
+  .carousel-cap {
+    font-size: 10px;
+  }
+  .carousel-caps {
+    font-size: 10px;
+  }
+}
